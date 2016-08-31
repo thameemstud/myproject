@@ -1,7 +1,7 @@
 def create():
 
 	print """
-
+	this line is added for checking purpose
 	first create two modules
 	try to import the class
 	then try to do __main__
